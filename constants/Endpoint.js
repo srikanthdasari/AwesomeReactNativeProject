@@ -1,5 +1,5 @@
 export const SECRET_TOKEN = '';
-export const PUBLIC_TOKEN = 'Tpk_c33b574ab767494f8e5e69079ddd78b5';
+export const PUBLIC_TOKEN = 'Tpk_c33b574ab767494f8e5e69079ddd';
 export const BASE_URL = 'https://sandbox.iexapis.com';
 
 export const ENDPOINT = {
